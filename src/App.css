@@ -1,0 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: gainsboro;
+
+    background-image: url("./assets/Checklist-rafiki.svg") ;
+    background-size: cover;
+    background-position: -300px -100px;
+    
+}
